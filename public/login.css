@@ -1,0 +1,22 @@
+.Login-form{
+    background-color: rgb(231, 190, 118);
+
+}
+.Login-form input{
+    box-sizing: border-box;
+    height:30%;
+    width:50%;
+    background: wheat;
+    text-transform: none;
+    font-size: 1.6rem;
+    color:var(--black);
+    padding:-1rem;
+}
+.Login-form h3{
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(4, 58, 13);
+}
+.Login-form a{
+    text-decoration: none;
+}
